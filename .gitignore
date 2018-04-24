@@ -1,0 +1,10 @@
+*.swp
+*.swo
+tags
+lib
+target
+project
+test_run_dir
+*.anno
+*.v
+*.fir
